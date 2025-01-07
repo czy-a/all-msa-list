@@ -11,15 +11,15 @@
 ### 
 ### 
 ### 
-## 
+## UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning( ACL
+### https://blog.csdn.net/qq_45645521/article/details/122645405
+### https://blog.csdn.net/qq_45331246/article/details/127146266
+### https://blog.csdn.net/qq_45331246/article/details/127146266
 ### 
 ### 
 ### 
-### 
-### 
-### 
-## 
-### 
+## MULTIMODAL SENTIMENT ANALYSIS ON UNALIGNED SEQUENCES VIA HOLOGRAPHIC EMBEDDING
+### https://developer.aliyun.com/article/1210177
 ### 
 ### 
 ### 
