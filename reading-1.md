@@ -32,23 +32,26 @@
 ### 
 ### 
 ### 
-## 
+## Attention Bottlenecks for Multimodal Fusion
+### https://blog.csdn.net/me_yundou/article/details/121070837
+### 
+### 
+### 
+### 
+### 
+## UniMSE: Towards Unified Multimodal Sentiment Analysisand Emotion Recognition
+### https://zhuanlan.zhihu.com/p/610463739
+### https://blog.csdn.net/qq_53239443/article/details/136865357
+### https://blog.csdn.net/weixin_48958956/article/details/135999153
 ### 
 ### 
 ### 
 ### 
 ### 
 ### 
-## 
-### 
-### 
-### 
-### 
-### 
-### 
-## 
-### 
-### 
+##  A Deep Multi-Level Attentive network for Multimodal Sentiment Analysis
+### https://blog.csdn.net/qq874455953/article/details/112604666
+### https://blog.51cto.com/u_15346174/3668101
 ### 
 ### 
 ### 
