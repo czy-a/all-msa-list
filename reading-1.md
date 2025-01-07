@@ -65,11 +65,11 @@
 ### 
 ### 
 ### 
-## 
-### 
-### 
-### 
-### 
+## CM-BERT: Cross-Modal BERT for Text-Audio Sentiment Analysis
+### https://blog.csdn.net/qq_42014059/article/details/121624433
+### https://blog.csdn.net/weixin_44691087/article/details/120632861
+### https://blog.csdn.net/qq_53239443/article/details/136709802
+### https://blog.csdn.net/qq874455953/article/details/121218072
 ### 
 ### 
 
