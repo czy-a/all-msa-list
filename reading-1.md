@@ -56,7 +56,9 @@
 ### 
 ### 
 ### 
-## 
+## PS-Mixer: A Polar-Vector and Strength-Vector Mixer Model for Multimodal Sentiment Analysis
+### https://blog.csdn.net/JackCrum/article/details/130353864
+### https://blog.csdn.net/weixin_47187147/article/details/136345770
 ### 
 ### 
 ### 
